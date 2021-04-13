@@ -1,1 +1,6 @@
 /target/
+/HELP.md
+/mvnw
+/mvnw.cmd
+/registry.iml
+/.idea/
